@@ -1,2 +1,3 @@
 "arquivo1" 
-"linha nova" 
+"linha nova"
+"outra linha"
